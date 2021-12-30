@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include<stdio.h>12
 int main()
 {
     int a[10],n=5;
